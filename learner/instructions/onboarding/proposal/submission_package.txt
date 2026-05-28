@@ -1,0 +1,217 @@
+============================================================
+COPILOT PROJECTS — FEATURE PROPOSAL
+Adaptive Learning & Persistent Project-Level Memory
+============================================================
+
+This document describes a working proof-of-concept demonstrating how
+Microsoft Copilot could support persistent project-level memory,
+adaptive learning, and multi-step workflows through a feature concept
+called “Copilot Projects.”
+
+The prototype included in this repository shows how Copilot could
+become a platform for long-term learning, structured workflows, and
+community-shared modules.
+
+============================================================
+1. PROBLEM STATEMENT
+============================================================
+
+Copilot currently has no persistent memory, no project-level context,
+and no way to store user progress across sessions.
+
+This prevents Copilot from supporting:
+
+- long-term learning
+- multi-step workflows
+- adaptive tutoring
+- onboarding systems
+- training modules
+- reusable templates
+- community-shared tools
+- structured processes
+
+Users must manually re-paste instructions, state, and progress every
+session. This creates friction and limits Copilot’s potential.
+
+============================================================
+2. USER STORY
+============================================================
+
+A user wants Copilot to help them learn Python over multiple days.
+Copilot cannot remember their progress, skill level, or what they
+learned yesterday.
+
+To work around this, the user builds a portable file-based memory
+system that Copilot loads each session. This system tracks:
+
+- skill levels
+- progression
+- chunk history
+- goals
+- XP and badges
+- daily updates
+
+This workaround demonstrates a real need for persistent project-level
+memory inside Copilot.
+
+============================================================
+3. PROPOSED SOLUTION: COPILOT PROJECTS
+============================================================
+
+Introduce a new Copilot feature called “Copilot Projects.”
+
+A Copilot Project would provide:
+
+------------------------------------------------------------
+A. Persistent Memory Per Project
+------------------------------------------------------------
+Copilot can store:
+
+- user progress
+- state files
+- instructions
+- settings
+- history
+- goals
+- XP and badges
+- chunk completion
+
+------------------------------------------------------------
+B. Safe Local Sandbox Workspace
+------------------------------------------------------------
+A permission-controlled environment where Copilot can:
+
+- read/write project files
+- update state
+- track progress
+- maintain context
+
+------------------------------------------------------------
+C. Modular Learning or Workflow Systems
+------------------------------------------------------------
+Users can create:
+
+- learning modules
+- automation kits
+- templates
+- assistants
+- multi-step workflows
+
+------------------------------------------------------------
+D. Community Sharing
+------------------------------------------------------------
+A workshop-style system where users can:
+
+- download
+- install
+- fork
+- remix
+- share
+
+…Copilot Projects created by others.
+
+This transforms Copilot into a platform, not just a chat window.
+
+============================================================
+4. PROTOTYPE DESCRIPTION
+============================================================
+
+This repository contains a working proof-of-concept called the
+“Little Boxes Learning System.”
+
+It includes:
+
+------------------------------------------------------------
+A. Learner File
+------------------------------------------------------------
+A portable profile containing:
+
+- skill levels
+- progression tracker
+- chunk history
+- redirect rules
+- reward system
+- goals
+- daily update
+- teaching instructions
+
+------------------------------------------------------------
+B. Instruction Manual
+------------------------------------------------------------
+Defines:
+
+- Copilot teaching behavior
+- adaptive difficulty
+- chunk logic
+- redirect rules
+- end-of-day updates
+- reset instructions
+
+------------------------------------------------------------
+C. Day 1 Starter Kit
+------------------------------------------------------------
+A friendly onboarding guide explaining:
+
+- what to expect
+- how the system works
+- safety notes
+- first-day goals
+
+------------------------------------------------------------
+D. Adaptive Chunk Engine
+------------------------------------------------------------
+Copilot teaches using:
+
+- support chunks
+- practice chunks
+- challenge chunks
+- fun chunks
+
+Difficulty adjusts automatically.
+
+------------------------------------------------------------
+E. XP, Badges, and Progression
+------------------------------------------------------------
+A lightweight gamification system.
+
+------------------------------------------------------------
+F. End-of-Day Update System
+------------------------------------------------------------
+Copilot outputs a block the user pastes back into the learner file.
+
+============================================================
+5. WHY THIS MATTERS
+============================================================
+
+This prototype demonstrates how Copilot could evolve into a platform
+that supports:
+
+- long-term learning
+- onboarding systems
+- training modules
+- reusable workflows
+- community-shared assistants
+- structured multi-step processes
+
+With persistent project-level memory, Copilot becomes:
+
+- a learning engine
+- a workflow engine
+- a creativity engine
+- a community ecosystem
+
+============================================================
+6. HOW MICROSOFT COULD USE THIS
+============================================================
+
+This prototype can serve as:
+
+- a reference design
+- a user-driven concept model
+- a blueprint for Copilot Projects
+- a demonstration of real user needs
+- a starting point for internal exploration
+
+============================================================
+END OF PROPOSAL
+============================================================
