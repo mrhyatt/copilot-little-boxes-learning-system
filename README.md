@@ -25,7 +25,7 @@ This repository demonstrates a real user need:
 > Copilot needs a way to store state, track progress, and run structured learning or workflow modules over multiple sessions.
 
 The files in this repo form a complete, portable learning system that Copilot can load and run each day.  
-This system is a **workaround** for missing features — and a **blueprint** for what Copilot could support natively.
+This system is a **workaround** for missing features and a **blueprint** for what Copilot could support natively.
 
 ---
 
@@ -56,7 +56,7 @@ A separate file defining:
 - how to adapt difficulty  
 - how to reset the system  
 
-This file is *not* pasted during normal use — it is a reference and system specification.
+This file is *not* pasted during normal use  it is a reference and system specification.
 
 ---
 
@@ -99,7 +99,7 @@ This prototype demonstrates how Copilot could evolve into a platform that suppor
 - community‑shared assistants  
 - structured multi‑step processes  
 
-With persistent project‑level memory, Copilot could become more than a chat assistant — it could become a **learning engine**, a **workflow engine**, and a **community‑driven tool ecosystem**.
+With persistent project‑level memory, Copilot could become more than a chat assistant  it could become a **learning engine**, a **workflow engine**, and a **community‑driven tool ecosystem**.
 
 ---
 
