@@ -1,178 +1,127 @@
 ============================================================
-DAY 1 STARTER KIT
-Welcome to Your First Day of Python!
+DAY ONE STARTER KIT
+Welcome to Your Adaptive Python Learning Journey
 ============================================================
 
-This short guide explains everything you need to know before starting.
-It is simple, friendly, and designed for complete beginners.
+This short guide explains:
+- What will happen on Day 01
+- What Copilot will ask you
+- How the system works
+- What you need to do (very little!)
+- What to expect today
 
-You do NOT paste this file into Copilot.
-You just read it before starting your session.
-
-============================================================
-[WELCOME MESSAGE]
-
-Welcome! Today is your first day learning Python.
-
-You don’t need experience.
-You don’t need to be “good at computers.”
-You don’t need to memorize anything.
-
-Python is beginner-friendly, forgiving, and fun.
-By the end of today, you will write your first real program.
-
-You can’t break anything.
-You can’t mess up your computer.
-Mistakes are normal and expected.
-
-You’re here to learn — one small step at a time.
+This is NOT pasted into Copilot.
+It is for you to read before starting.
 
 ============================================================
-[WHAT WILL HAPPEN TODAY]
+[WHAT TO EXPECT ON DAY 01]
 
-Here’s what Day 1 looks like:
+Today is setup day.
 
-1. Copilot will give you a very small task (a “chunk”).
-2. You answer in your own words.
-3. Copilot checks your answer and gives XP.
-4. You move to the next chunk.
-5. You repeat until you say: “I’m done for the day.”
+You will:
+- Paste the Day 01 learner file into Copilot
+- Answer a few simple onboarding questions
+- Complete your first learning chunk
 
-You will complete:
-- your first Python program  
-- your first code fix  
-- your first tiny project  
-- one fun activity  
-
-You will end the day with a win.
+Copilot will:
+- Learn your preferences
+- Learn your comfort level
+- Learn your IDE/editor
+- Learn how you like information presented
+- Start teaching you Python immediately
 
 ============================================================
-[BEGINNER SAFETY NOTES]
+[WHAT COPILOT WILL ASK YOU]
 
-Before you start, here are some calming facts:
+Copilot will ask five simple questions:
 
-- You cannot break your computer with Python today.
-- You do not need math skills.
-- You do not need to know how programming works.
-- You do not need to type fast.
-- You do not need to be creative.
-- You do not need to memorize anything.
+1. **Preferred Name**  
+   If you want Copilot to call you something specific.
 
-If you get confused, just say:
-“I’m confused.”
+2. **Learning Style**  
+   Visual? Step-by-step? Hands-on? Fast-paced?
 
-If you need a break, say:
-“Pause.”
+3. **Optional Pacing Notes**  
+   Only if you want Copilot to know anything that affects your daily focus.
 
-If you want to stop, say:
-“I’m done for the day.”
+4. **IDE/Editor Preference**  
+   VS Code, PyCharm, IDLE, or anything else.
 
-============================================================
-[PYTHON IN ONE MINUTE]
+5. **Comfort Level (1–3)**  
+   1 = Beginner  
+   2 = Intermediate  
+   3 = Developer  
 
-Python is a programming language.
-It lets you tell a computer what to do using simple instructions.
-
-People use Python for:
-- automation
-- tools and utilities
-- websites
-- data and spreadsheets
-- cybersecurity
-- simple games
-- machine learning and AI
-
-Python is popular because it is:
-- easy to read
-- easy to write
-- great for beginners
-- powerful for professionals
-
-Your first program will look like this:
-
-print("Hello, world!")
-
-That’s it. That’s a real program.
+These questions help Copilot adapt the entire course to you.
 
 ============================================================
-[HOW THE LEARNING SYSTEM WORKS]
+[WHAT YOU DO NOT HAVE TO DO]
 
-You will learn using the “Little Boxes Learning Loop.”
+You do NOT need to:
+- Edit the learner file
+- Track your own progress
+- Update anything manually
+- Fill out forms
+- Remember anything from yesterday
 
-It works like this:
-
-1. Copilot gives you ONE small task.
-2. You answer.
-3. Copilot evaluates your answer.
-4. You earn XP and badges.
-5. Copilot gives you the next small task.
-
-No pressure.
-No rushing.
-No big lessons.
-Just tiny steps.
-
-If you struggle → Copilot gives easier chunks.  
-If you do well → Copilot gives normal chunks.  
-If you do great → Copilot gives challenge chunks.  
-If you feel overwhelmed → Copilot gives fun chunks only.
+Copilot handles all of that internally.
 
 ============================================================
-[YOUR DAY 1 GOALS]
+[HOW DAILY SESSIONS WORK]
 
-Today you will:
+Every day after Day 01, Copilot will begin with a short warm-up:
 
-- Learn what a Python program looks like
-- Write your first program
-- Fix your first error
-- Build a tiny 3‑line project
-- Do one fun activity
-- End with XP and a badge
+- “Do you have any time limits today?”
+- “What kind of flow do you want — light, steady, or challenge?”
+- “Anything from last time you want to review?”
 
-These are small, achievable wins.
+This helps Copilot pace the session correctly.
 
 ============================================================
-[YOUR END GOAL PROJECT]
+[VERSIONING — SUPER IMPORTANT]
 
-Later in the course, you will build a real project you choose.
+At the end of each day, Copilot will give you an update block.
 
-Examples:
-- A work tool (log reader, file organizer, calculator)
-- A personal tool (recipe writer, habit tracker)
-- A simple game (guessing game, text adventure)
-- A creative tool (story generator, idea maker)
-- A utility (timer, converter, checklist)
+You will:
+- Create a NEW file  
+- Name it:  
+  <username>_learning_packet_day_02.txt  
+- Paste the update block into it
 
-You don’t choose today.
-You choose later, when you’re ready.
+You NEVER overwrite yesterday’s file.
 
-============================================================
-[HOW TO TALK TO COPILOT]
-
-You can talk normally.
-You don’t need special commands.
-
-Useful phrases:
-- “I’m confused.”
-- “Can you slow down?”
-- “Can you explain that differently?”
-- “Can you give an example?”
-- “I’m done for the day.”
-
-To begin the course, say:
-“Begin the Little Boxes Loop.”
+This keeps your progress safe.
 
 ============================================================
-[START BUTTON]
+[WHAT YOU WILL DO TODAY]
 
-When you are ready to start Day 1, open Copilot and paste your learner file:
+- Paste the Day 01 learner file into Copilot
+- Answer the onboarding questions
+- Complete your first learning chunk
 
-michael_learning_packet.txt
-
-Then say:
-
-Begin the Little Boxes Loop.
+That’s it.
 
 ============================================================
-END OF DAY 1 STARTER KIT
+[YOUR FIRST PYTHON PROGRAM]
+
+Today you will write your first Python program.
+
+It will be simple.
+It will work.
+And you will understand it.
+
+============================================================
+[YOU’RE READY]
+
+When you’re ready to begin:
+
+1. Open Copilot  
+2. Paste the Day 01 learner file  
+3. Answer the onboarding questions  
+4. Start learning Python  
+
+You’ve got this.
+
+============================================================
+END OF FILE
 ============================================================
