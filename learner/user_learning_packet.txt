@@ -6,7 +6,8 @@
 This file contains:
 - Versioning Instructions
 - How to Use This File
-- Daily Warm-Up (Copilot asks these questions)
+- Day 01 Onboarding (Copilot asks these questions)
+- Daily Warm-Up (Copilot asks these questions on future days)
 - User Profile (Learner does NOT edit)
 - Development Environment (Learner does NOT edit)
 - Goals
@@ -46,52 +47,73 @@ Instead:
 1. Paste this entire file into Copilot at the start of Day 01.
 
 2. Copilot will begin with a one-time onboarding conversation:
-   - Preferred name (optional)
-   - Learning style (optional)
-   - Optional pacing info (energy/focus factors)
-   - IDE/editor preference
+   - Preferred name
+   - Learning style
+   - Pacing notes
    - Comfort level (1–3)
+   - IDE/editor
+   - OS
+   - Python version
+   - Whether to use past Copilot experience or start fresh
+   - Time limits for today
+   - Preferred pacing for today
+   - Any review needed before starting
 
-3. At the start of each future session, Copilot will ask a Daily Warm-Up:
+3. At the start of each future session, Copilot will ask the Daily Warm-Up:
    - Time limits for today
    - Preferred pacing (light, steady, challenge)
    - Any review needed
 
 4. Copilot will run the Little Boxes Learning Loop:
-   - Generate ONE chunk at a time.
-   - Wait for your answer.
-   - Evaluate your answer.
-   - Award XP.
-   - Update progress internally.
-   - Generate the next chunk.
+   - Generate ONE chunk at a time
+   - Wait for your answer
+   - Evaluate your answer
+   - Award XP
+   - Update progress internally
+   - Generate the next chunk
 
 5. Before submitting code:
-   - Run your code in your IDE/editor.
-   - Fix any syntax errors.
-   - If you cannot fix the error, paste the broken code anyway.
-     Copilot will help you debug.
-     Errors are opportunities, not failures.
+   - Run your code in your IDE/editor
+   - Fix any syntax errors
+   - If you cannot fix the error, paste the broken code anyway
+     Copilot will help you debug
 
 6. Copilot will offer a Review Break:
-   - After ~1 hour OR ~15 chunks.
-   - Copilot will show the current time.
-   - Copilot will remind you to take breaks or end your session.
+   - After ~1 hour OR ~15 chunks
+   - Copilot will show the current time
+   - Copilot will remind you to take breaks or end your session
 
 7. When you say: "I'm done for the day":
    Copilot will output ONE block:
    [END OF DAY UPDATE — COPY THIS INTO <username>_learning_packet_day_02.txt]
 
 ============================================================
-[DAILY WARM-UP — COPILOT ASKS THESE QUESTIONS]
+[DAY 01 ONBOARDING — COPILOT ASKS THESE QUESTIONS]
+
+Copilot must ask ALL of these on Day 01:
+
+1. “What name would you like me to use for you?”
+2. “How do you like to learn? (visual, systematic, hands-on, story-based, minimalist)”
+3. “Any pacing notes you want me to know?”
+4. “What comfort level should we use? (1–3)”
+5. “What editor/IDE will you be using today?”
+6. “What OS are you on, and what Python version do you have installed?”
+7. “Would you like me to use any of your past experience with Copilot while teaching you,
+    or should we treat this as a completely fresh start?”
+8. “Before we begin, do you have any time limits today?”
+9. “What kind of flow do you want today — lighter practice, steady progress, or some challenge chunks?”
+10. “Anything you want to review before we begin?”
+
+The learner answers in conversation.
+The learner does NOT edit this section.
+
+============================================================
+[DAILY WARM-UP — COPILOT ASKS THESE QUESTIONS ON FUTURE DAYS]
 
 At the start of each session (after Day 01), Copilot must ask:
 
-1. “Before we get started, do you have any time limits today?
-    I can pace the session to match your schedule.”
-
-2. “What kind of flow do you want today — lighter practice,
-    steady progress, or some challenge chunks?”
-
+1. “Before we get started, do you have any time limits today?”
+2. “What kind of flow do you want today — lighter practice, steady progress, or some challenge chunks?”
 3. “Anything from last time you want to revisit before we continue?”
 
 The learner answers in conversation.
@@ -100,24 +122,25 @@ The learner does NOT edit this section.
 ============================================================
 [USER PROFILE — DO NOT EDIT]
 
-Name: <username>  
-Preferred Name: (Set during onboarding)  
-Learning Style: (Set during onboarding)  
-Pacing Notes: (Optional, set during onboarding)  
+Name: <username>
+Preferred Name: (Set during onboarding)
+Learning Style: (Set during onboarding)
+Pacing Notes: (Set during onboarding)
 Comfort Level: (1–3, set during onboarding)
+Use Past Experience: (Yes/No, set during onboarding)
 
 ============================================================
 [DEVELOPMENT ENVIRONMENT — DO NOT EDIT]
 
-IDE/Editor: (Set during onboarding)  
-OS: (Set during onboarding)  
+IDE/Editor: (Set during onboarding)
+OS: (Set during onboarding)
 Python Version: (Set during onboarding)
 
 ============================================================
 [GOALS]
 
-Short-Term Goal: Learn the basics of Python from zero.  
-Long-Term Goal: Become a confident Python developer.  
+Short-Term Goal: Learn the basics of Python from zero.
+Long-Term Goal: Become a confident Python developer.
 Today's Goal: Complete the first learning chunk.
 
 ============================================================
@@ -142,69 +165,69 @@ Python is simple, powerful, and perfect for beginners.
 ============================================================
 [SKILL LEVELS] Updated at the end of session.
 
-Reading Code: 0/5  
-Modifying Code: 0/5  
-Debugging: 0/5  
-Building Small Projects: 0/5  
-Independence: 0/5  
+Reading Code: 0/5
+Modifying Code: 0/5
+Debugging: 0/5
+Building Small Projects: 0/5
+Independence: 0/5
 
 ============================================================
 [PYTHON PROGRESSION TRACKER] Updated at the end of session.
 
-Level 1: Foundations  
-- print(): Not Started  
-- variables: Not Started  
-- strings: Not Started  
-- input(): Not Started  
-- indentation: Not Started  
+Level 1: Foundations
+- print(): Not Started
+- variables: Not Started
+- strings: Not Started
+- input(): Not Started
+- indentation: Not Started
 
-Level 2: Control Flow  
-- if/else: Not Started  
-- for loops: Not Started  
-- while loops: Not Started  
+Level 2: Control Flow
+- if/else: Not Started
+- for loops: Not Started
+- while loops: Not Started
 
-Level 3: Data Structures  
-- lists: Not Started  
-- dictionaries: Not Started  
-- tuples: Not Started  
+Level 3: Data Structures
+- lists: Not Started
+- dictionaries: Not Started
+- tuples: Not Started
 
-Level 4: Functions  
-- defining functions: Not Started  
-- parameters: Not Started  
-- return values: Not Started  
+Level 4: Functions
+- defining functions: Not Started
+- parameters: Not Started
+- return values: Not Started
 
-Level 5: Files  
-- reading files: Not Started  
-- writing files: Not Started  
+Level 5: Files
+- reading files: Not Started
+- writing files: Not Started
 
-Level 6: OOP  
-- classes: Not Started  
+Level 6: OOP
+- classes: Not Started
 
-Level 7: Projects  
-- micro-projects: Not Started  
+Level 7: Projects
+- micro-projects: Not Started
 
 ============================================================
 [CHUNK HISTORY] Updated at the end of session.
 
-Completed: None  
-Struggled: None  
-Favorites: None  
-Avoided: None  
+Completed: None
+Struggled: None
+Favorites: None
+Avoided: None
 
 ============================================================
 [REDIRECT RULES] Updated at the end of session.
 
-If struggling → support chunk  
-If doing okay → practice chunk  
-If doing great → challenge chunk  
-If overwhelmed → fun chunk only  
+If struggling → support chunk
+If doing okay → practice chunk
+If doing great → challenge chunk
+If overwhelmed → fun chunk only
 
 ============================================================
 [REWARD SETTINGS] Updated at the end of session.
 
-XP: 0  
-Badges: None  
-Fun Chunk Frequency: Medium  
+XP: 0
+Badges: None
+Fun Chunk Frequency: Medium
 
 ============================================================
 [END GOAL PROJECT PROMPT]
@@ -226,12 +249,12 @@ These instructions tell Copilot EXACTLY how to teach the user.
 Do NOT remove this section.
 
 1. Copilot must use the Little Boxes Learning Loop:
-   - Generate ONE chunk at a time.
-   - Wait for the user's answer.
-   - Evaluate the answer.
-   - Award XP and give feedback.
-   - Update progress internally.
-   - Generate the next chunk.
+   - Generate ONE chunk at a time
+   - Wait for the user's answer
+   - Evaluate the answer
+   - Award XP and give feedback
+   - Update progress internally
+   - Generate the next chunk
 
 2. Copilot MUST NOT update this file during the session.
 
